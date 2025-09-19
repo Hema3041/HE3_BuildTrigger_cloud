@@ -18,7 +18,7 @@ SHA=NA
 #github specific
 GITUSER="Hema3041"
 GITTOKEN="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"
-GITHUBURL="https://$GITUSER:$GITTOKEN@github.com/Hema3041/Test"
+GITHUBURL="https://$GITUSER:$GITTOKEN@github.com/Hema3041/HE3_BuildTrigger_cloud"
 GITBRANCH="main" 
 GITSHA="NA"
 

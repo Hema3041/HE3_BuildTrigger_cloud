@@ -3,6 +3,7 @@
 #source vars.sh
 #source varsHM1.sh
 source varsHE3.sh
+#source varsHE5.sh
 source funcs.sh
  
 #Sample command
@@ -10,7 +11,7 @@ source funcs.sh
  
 #HVLS0020010EPCPX => Havells EPIC Fan Production
 #HVLS0010002WAVPX => Havells WAVE Ac Production
-#LVPR0010001PURDX => Livpure Lotier
+#LVPR0010001PURPX => Livpure Lotier
  
 echo "Please enter some note:"
 read NOTE
@@ -99,8 +100,8 @@ echo "Flash" $FLASH_SIZE
 sleep 5
 printParams
 checkParams
-removeExisting
-getCode
+#removeExisting
+#getCode
 #exit
 useTypeInfo
 useBoardInfo
