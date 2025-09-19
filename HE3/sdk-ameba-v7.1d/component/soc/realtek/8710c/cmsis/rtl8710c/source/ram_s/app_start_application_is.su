@@ -1,0 +1,4 @@
+app_start.c:46:27:main	8	static
+app_start.c:55:28:__iar_data_init3	0	static
+app_start.c:60:28:__iar_zero_init3	0	static
+app_start.c:142:6:app_start	8	static

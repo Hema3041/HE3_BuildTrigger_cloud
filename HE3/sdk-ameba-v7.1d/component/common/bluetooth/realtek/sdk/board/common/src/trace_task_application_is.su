@@ -1,0 +1,5 @@
+trace_task.c:40:5:traceuart_tx_cb	24	static
+trace_task.c:68:13:trace_task	24	static
+trace_task.c:101:5:bt_trace_init	16	static
+trace_task.c:117:5:bt_trace_uninit	8	static
+trace_task.c:132:5:trace_print	32	static

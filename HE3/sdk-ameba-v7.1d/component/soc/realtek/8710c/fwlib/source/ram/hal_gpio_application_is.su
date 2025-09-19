@@ -1,0 +1,8 @@
+hal_gpio.c:69:14:hal_gpio_init	24	static
+hal_gpio.c:87:6:hal_gpio_deinit	8	static
+hal_gpio.c:110:14:hal_gpio_irq_init	32	static
+hal_gpio.c:130:6:hal_gpio_irq_deinit	8	static
+hal_gpio.c:153:14:hal_gpio_port_init	40	static
+hal_gpio.c:186:6:hal_gpio_port_deinit	32	static
+hal_gpio.c:213:6:hal_gpio_port_dir	0	static
+hal_gpio.c:239:6:hal_gpio_h5l3	0	static

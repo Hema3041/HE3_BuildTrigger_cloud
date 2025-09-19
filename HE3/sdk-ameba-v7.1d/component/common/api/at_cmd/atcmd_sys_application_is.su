@@ -1,0 +1,17 @@
+atcmd_sys.c:1275:6:fATSB	0	static
+atcmd_sys.c:64:6:fATXX	16	static
+atcmd_sys.c:1659:6:fATSt	8	static
+atcmd_sys.c:1579:6:fATSs	64	static
+atcmd_sys.c:1598:6:fATSc	72	static
+atcmd_sys.c:876:6:fATSG	104	static
+atcmd_sys.c:1571:6:fATSS	16	static
+atcmd_sys.c:1783:6:fATSx	80	static
+atcmd_sys.c:72:6:fATSD	64	static
+atcmd_sys.c:89:6:fATSE	64	static
+atcmd_sys.c:793:6:fATSA	0	static
+atcmd_sys.c:1165:6:fATSP	0	static
+atcmd_sys.c:272:6:fATSK	312	static
+atcmd_sys.c:106:6:fATSC	8	static
+atcmd_sys.c:115:6:fATSR	8	static
+atcmd_sys.c:1737:6:fATSJ	56	static
+atcmd_sys.c:2378:6:at_sys_init	0	static

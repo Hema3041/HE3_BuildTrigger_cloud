@@ -1,0 +1,10 @@
+ethernetif.c:135:14:low_level_output	280	static
+ethernetif.c:168:14:low_level_output_mii	272	static
+ethernetif.c:337:13:arp_timer	8	static
+ethernetif.c:211:6:ethernetif_recv	272	static
+ethernetif.c:249:6:ethernetif_mii_recv	272	static
+ethernetif.c:289:7:ethernetif_init	8	static
+ethernetif.c:315:7:ethernetif_mii_init	8	static
+ethernetif.c:348:5:arp_timeout_exist	8	static
+ethernetif.c:363:6:lwip_PRE_SLEEP_PROCESSING	8	static
+ethernetif.c:372:6:lwip_POST_SLEEP_PROCESSING	0	static

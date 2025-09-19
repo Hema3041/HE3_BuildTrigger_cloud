@@ -1,0 +1,11 @@
+tcptest.c:93:5:tcp_client_func	104	static
+tcptest.c:692:13:tcp_client_handler	56	static
+tcptest.c:226:5:tcp_server_func	144	static
+tcptest.c:711:13:tcp_server_handler	56	static
+tcptest.c:351:5:udp_client_func	168	static
+tcptest.c:729:13:udp_client_handler	56	static
+tcptest.c:546:5:udp_server_func	160	static
+tcptest.c:749:13:udp_server_handler	56	static
+tcptest.c:769:10:km_parser	40	static
+tcptest.c:804:6:cmd_tcp	56	static
+tcptest.c:998:6:cmd_udp	64	static

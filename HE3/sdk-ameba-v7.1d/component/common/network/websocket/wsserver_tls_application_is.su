@@ -1,0 +1,12 @@
+wsserver_tls.c:66:14:_calloc_func	16	static
+wsserver_tls.c:49:12:_verify_func	1032	static
+wsserver_tls.c:82:12:_random_func	8	static
+wsserver_tls.c:92:5:ws_server_tls_setup_init	32	static
+wsserver_tls.c:169:6:ws_server_tls_setup_free	8	static
+wsserver_tls.c:180:7:ws_server_tls_new_handshake	32	static
+wsserver_tls.c:315:6:ws_server_tls_close	0	static
+wsserver_tls.c:326:6:ws_server_tls_free	8	static
+wsserver_tls.c:340:5:ws_server_tls_write	8	static
+wsserver_tls.c:356:5:ws_server_tls_read	8	static
+wsserver_tls.c:374:5:ws_server_base64_encode	32	static
+wsserver_tls.c:398:6:ws_server_sha1	0	static

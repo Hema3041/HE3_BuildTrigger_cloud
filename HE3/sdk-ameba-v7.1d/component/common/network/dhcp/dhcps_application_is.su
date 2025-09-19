@@ -1,0 +1,12 @@
+dhcps.c:351:15:add_offer_options	16	static
+dhcps.c:51:13:mark_ip_in_table	16	static
+dhcps.c:940:13:dnss_receive_udp_packet_handler	16	static
+dhcps.c:166:16:check_client_direct_request_ip.constprop	48	static
+dhcps.c:238:6:dump_client_table	0	static
+dhcps.c:639:9:dhcps_handle_state_machine_change	16	static
+dhcps.c:838:13:dhcps_receive_udp_packet_handler	72	static
+dhcps.c:920:6:dhcps_set_addr_pool	4	static
+dhcps.c:972:6:dns_server_init	8	static
+dhcps.c:992:6:dns_server_deinit	8	static
+dhcps.c:1007:6:dhcps_init	32	static
+dhcps.c:1129:6:dhcps_deinit	8	static

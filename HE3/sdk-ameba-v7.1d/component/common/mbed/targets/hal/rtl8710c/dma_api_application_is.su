@@ -1,0 +1,3 @@
+dma_api.c:42:6:dma_memcpy_init	16	static
+dma_api.c:57:6:dma_memcpy_deinit	0	static
+dma_api.c:70:6:dma_memcpy	0	static

@@ -1,0 +1,7 @@
+rtl_console.c:57:6:uart_put_char	0	static
+rtl_console.c:61:6:uart_send_string	16	static
+rtl_console.c:70:6:uart_send_buf	16	static
+rtl_console.c:83:29:uart_set_dbgmon_pending	0	static
+rtl_console.c:85:13:uart_irq	40	static
+rtl_console.c:207:6:console_init	24	static
+rtl_console.c:226:6:console_reinit_uart	16	static

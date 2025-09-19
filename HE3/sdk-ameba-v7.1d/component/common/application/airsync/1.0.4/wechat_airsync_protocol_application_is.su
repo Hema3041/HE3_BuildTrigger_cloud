@@ -1,0 +1,10 @@
+wechat_airsync_protocol.c:42:6:set_data_complete_callback	0	static
+wechat_airsync_protocol.c:47:6:airsync_tx_complete	32	static
+wechat_airsync_protocol.c:55:6:airsync_send_stream	24	static
+wechat_airsync_protocol.c:87:6:airsync_auth_request	152	static
+wechat_airsync_protocol.c:137:6:airsync_init_request	64	static
+wechat_airsync_protocol.c:163:6:airsync_wristband_request	72	static
+wechat_airsync_protocol.c:237:6:airsync_send_data	64	static
+wechat_airsync_protocol.c:320:5:airsync_receive_data_handle	16	static
+wechat_airsync_protocol.c:452:6:airsync_receive_data	16	static
+wechat_airsync_protocol.c:508:6:airsync_send_data_event	0	static

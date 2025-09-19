@@ -1,0 +1,5 @@
+consol_cmds.c:45:9:cmd_dump_byte	16	static
+consol_cmds.c:68:9:cmd_dump_helfword	56	static
+consol_cmds.c:107:9:cmd_dump_word	40	static
+consol_cmds.c:145:9:cmd_write_byte	32	static
+consol_cmds.c:161:9:cmd_write_word	32	static

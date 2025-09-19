@@ -1,0 +1,4 @@
+bt_beacon_app.c:54:6:bt_beacon_app_handle_io_msg	48	static
+bt_beacon_app.c:78:6:bt_beacon_app_handle_dev_state_evt	24	static
+bt_beacon_app.c:117:6:bt_beacon_app_handle_gap_msg	32	static
+bt_beacon_app.c:148:14:bt_beacon_app_gap_callback	16	static

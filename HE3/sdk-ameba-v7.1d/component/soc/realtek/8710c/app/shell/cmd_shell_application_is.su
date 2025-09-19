@@ -1,0 +1,12 @@
+cmd_shell.c:71:6:shell_init	4	static
+cmd_shell.c:87:6:shell_init_with_stdio_port	0	static
+cmd_shell.c:104:6:shell_set_cmd_buf	0	static
+cmd_shell.c:123:6:shell_set_hist_buf	0	static
+cmd_shell.c:135:6:shell_set_prompt	0	static
+cmd_shell.c:149:6:shell_set_cmd_table	0	static
+cmd_shell.c:163:6:shell_set_cmd_list	0	static
+cmd_shell.c:183:6:shell_register	4	static
+cmd_shell.c:193:6:shell_unregister_all	0	static
+cmd_shell.c:211:9:shell_task	0	static
+cmd_shell.c:216:9:shell_parse_one_cmd	0	static
+cmd_shell.c:230:6:shell_cmd_init	16	static

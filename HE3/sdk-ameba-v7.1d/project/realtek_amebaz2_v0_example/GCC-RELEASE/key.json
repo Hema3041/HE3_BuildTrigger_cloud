@@ -1,0 +1,15 @@
+{
+	"__comment_EFUSE":"should keep these two key in safe place, or secure firmware protection is useless",
+	"EFUSE":{
+		"__comment_privkey_enc":"this key in EFUSE SUPER SECURE ZONE",
+		"privkey_enc":"9A2C4E2B7D0A18CB47D261319DD820DB41FF7E7B44B165E8F59DF981AE6713CB",
+		"__comment_privkey_hash":"this key in EFUSE SECURE ZONE, encrypted by upper key",
+		"privkey_hash":"18A8EE9F9CAF5914F6AB6E2F5F45AD037A424B8F581BD0A35A1A2510D99BD200"
+	},
+	"TOOL":{
+		"__comment_pubkey_enc":"public key for encryption",
+		"pubkey_enc":"892A2EAD1238C8EC29D8C93E04C902A332B567F86AB1426C71B305FB4C91AD66",
+		"__comment_pubkey_hash":"public key for hash, only for partition table and bootloader",
+		"pubkey_hash":"892A2EAD1238C8EC29D8C93E04C902A332B567F86AB1426C71B305FB4C91AD66"
+	}
+}

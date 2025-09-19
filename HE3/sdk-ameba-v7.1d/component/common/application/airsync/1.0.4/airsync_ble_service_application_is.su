@@ -1,0 +1,4 @@
+airsync_ble_service.c:147:14:airsync_service_attr_read_cb	8	static
+airsync_ble_service.c:234:6:airsync_service_cccd_update_cb	48	static
+airsync_ble_service.c:184:14:airsync_service_attr_write_cb	24	static
+airsync_ble_service.c:288:13:airsync_add_service	24	static

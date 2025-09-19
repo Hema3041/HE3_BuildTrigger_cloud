@@ -1,0 +1,4 @@
+reset_reason_api.c:52:16:hal_reset_reason_get	16	static
+reset_reason_api.c:88:10:hal_reset_reason_get_raw	16	static
+reset_reason_api.c:104:6:hal_reset_reason_clear	0	static
+reset_reason_api.c:114:6:hal_reset_reason_set	0	static

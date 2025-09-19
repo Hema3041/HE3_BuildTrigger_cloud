@@ -1,0 +1,5 @@
+ping_test.c:69:6:ping_test	112	static
+ping_test.c:271:6:do_ping_call	24	static
+ping_test.c:286:5:get_ping_report	0	static
+ping_test.c:291:6:cmd_ping	48	static
+ping_test.c:352:6:do_ping_test	32	static

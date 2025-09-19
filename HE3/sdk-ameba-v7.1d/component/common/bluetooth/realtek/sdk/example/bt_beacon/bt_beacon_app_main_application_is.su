@@ -1,0 +1,4 @@
+bt_beacon_app_main.c:196:6:bt_beacon_driver_init	0	static
+bt_beacon_app_main.c:223:5:bt_beacon_app_main	32	static
+bt_beacon_app_main.c:238:5:bt_beacon_app_init	16	static
+bt_beacon_app_main.c:277:6:bt_beacon_app_deinit	16	static

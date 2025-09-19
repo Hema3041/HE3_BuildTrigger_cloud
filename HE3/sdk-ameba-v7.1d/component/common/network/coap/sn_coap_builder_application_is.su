@@ -1,0 +1,8 @@
+sn_coap_builder.c:653:16:sn_coap_builder_options_build_add_one_option	24	static
+sn_coap_builder.c:779:16:sn_coap_builder_options_build_add_multiple_option	64	static
+sn_coap_builder.c:149:10:sn_coap_builder_calc_needed_packet_data_size_2.part.1	96	static
+sn_coap_builder.c:52:16:sn_coap_build_response	24	static
+sn_coap_builder.c:99:9:sn_coap_builder_2	80	static
+sn_coap_builder.c:94:9:sn_coap_builder	0	static
+sn_coap_builder.c:144:10:sn_coap_builder_calc_needed_packet_data_size	0	static
+sn_coap_builder.c:149:10:sn_coap_builder_calc_needed_packet_data_size_2	0	static

@@ -1,0 +1,13 @@
+ble_scatternet_app.c:215:6:ble_scatternet_app_handle_conn_state_evt.part.0	64	static
+ble_scatternet_app.c:131:6:ble_scatternet_app_handle_dev_state_evt	48	static
+ble_scatternet_app.c:215:6:ble_scatternet_app_handle_conn_state_evt	64	static
+ble_scatternet_app.c:369:6:ble_scatternet_app_handle_authen_state_evt	24	static
+ble_scatternet_app.c:412:6:ble_scatternet_app_handle_conn_mtu_info_evt	16	static
+ble_scatternet_app.c:425:6:ble_scatternet_app_handle_conn_param_update_evt	40	static
+ble_scatternet_app.c:81:6:ble_scatternet_app_handle_io_msg	40	static
+ble_scatternet_app.c:475:6:ble_scatternet_app_handle_gap_msg	32	static
+ble_scatternet_app.c:594:6:ble_scatternet_app_parse_scan_info	88	static
+ble_scatternet_app.c:768:14:ble_scatternet_app_gap_callback	72	static
+ble_scatternet_app.c:883:14:ble_scatternet_gap_service_callback	64	static
+ble_scatternet_app.c:933:6:ble_scatternet_gcs_handle_discovery_result	120	static
+ble_scatternet_app.c:1258:14:ble_scatternet_gcs_client_callback	24	static

@@ -1,0 +1,11 @@
+net_sockets.c:142:6:mbedtls_net_init	0	static
+net_sockets.c:150:5:mbedtls_net_connect	40	static
+net_sockets.c:243:5:mbedtls_net_bind	80	static
+net_sockets.c:419:5:mbedtls_net_accept	88	static
+net_sockets.c:568:5:mbedtls_net_set_block	16	static
+net_sockets.c:579:5:mbedtls_net_set_nonblock	16	static
+net_sockets.c:593:6:mbedtls_net_usleep	40	static
+net_sockets.c:613:5:mbedtls_net_recv	8	static
+net_sockets.c:650:5:mbedtls_net_recv_timeout	56	static
+net_sockets.c:695:5:mbedtls_net_send	8	static
+net_sockets.c:732:6:mbedtls_net_free	8	static

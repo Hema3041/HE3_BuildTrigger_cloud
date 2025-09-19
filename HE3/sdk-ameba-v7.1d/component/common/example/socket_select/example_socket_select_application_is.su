@@ -1,0 +1,2 @@
+example_socket_select.c:17:13:example_socket_select_thread	696	static
+example_socket_select.c:149:6:example_socket_select	16	static

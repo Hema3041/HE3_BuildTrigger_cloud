@@ -1,0 +1,2 @@
+pinmap.c:43:6:pin_function	0	static
+pinmap.c:54:6:pin_mode	8	static

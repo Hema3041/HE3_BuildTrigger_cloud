@@ -1,0 +1,7 @@
+ble_central_app_main.c:66:6:ble_central_bt_stack_config_init	0	static
+ble_central_app_main.c:75:6:ble_central_app_le_gap_init	88	static
+ble_central_app_main.c:172:6:ble_central_app_le_profile_init	8	static
+ble_central_app_main.c:184:6:ble_central_task_init	0	static
+ble_central_app_main.c:193:5:ble_central_app_main	8	static
+ble_central_app_main.c:207:5:ble_central_app_init	16	static
+ble_central_app_main.c:243:6:ble_central_app_deinit	16	static

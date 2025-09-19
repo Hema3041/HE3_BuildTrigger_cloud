@@ -1,0 +1,5 @@
+hal_gdma.c:69:6:hal_gdma_memcpy_init	24	static
+hal_gdma.c:100:6:hal_gdma_memcpy_deinit	16	static
+hal_gdma.c:117:14:hal_gdma_memcpy	32	static
+hal_gdma.c:212:14:hal_gdma_chnl_alloc	16	static
+hal_gdma.c:252:6:hal_gdma_chnl_free	16	static

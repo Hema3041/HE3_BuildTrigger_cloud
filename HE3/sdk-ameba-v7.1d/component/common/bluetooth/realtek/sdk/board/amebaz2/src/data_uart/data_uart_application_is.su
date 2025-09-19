@@ -1,0 +1,7 @@
+data_uart.c:28:6:data_uart_msg_init	0	static
+data_uart.c:34:6:data_uart_msg_send	40	static
+data_uart.c:51:5:data_uart_vsprintf	64	static
+data_uart.c:160:6:data_uart_print	56	static
+data_uart.c:165:5:data_uart_send_char	8	static
+data_uart.c:177:6:data_uart_irq	48	static
+data_uart.c:200:6:data_uart_init	0	static

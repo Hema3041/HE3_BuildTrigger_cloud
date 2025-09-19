@@ -1,0 +1,7 @@
+awsiot.c:1488:13:messageArrived	8	static
+awsiot.c:86:13:messageArrivedUIControl	24	static
+awsiot.c:150:6:prepareTopics	48	static
+awsiot.c:678:6:initStaticJson	112	static
+awsiot.c:1117:6:updateAnalJson	48	static
+awsiot.c:1497:6:initAWSIOTCore	168	static
+awsiot.c:1897:6:startAWSIOT	16	static

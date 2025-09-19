@@ -1,0 +1,5 @@
+check_endian.c:13:5:checkCPUendian	0	static
+check_endian.c:25:15:t_htonl	0	static
+check_endian.c:30:15:t_ntohl	0	static
+check_endian.c:36:16:htons	0	static
+check_endian.c:41:16:ntohs	0	static

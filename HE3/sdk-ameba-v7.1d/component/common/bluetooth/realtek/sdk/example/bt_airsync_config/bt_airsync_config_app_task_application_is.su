@@ -1,0 +1,5 @@
+bt_airsync_config_app_task.c:127:6:bt_airsync_config_app_main_task	32	static
+bt_airsync_config_app_task.c:60:6:bt_airsync_config_send_msg	32	static
+bt_airsync_config_app_task.c:84:6:bt_airsync_config_app_task_init	24	static
+bt_airsync_config_app_task.c:99:6:bt_airsync_config_app_task_deinit	16	static
+bt_airsync_config_app_task.c:161:5:bt_airsync_config_app_send_msg_to_apptask	24	static

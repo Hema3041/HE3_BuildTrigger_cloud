@@ -1,0 +1,10 @@
+gaps_client.c:380:13:gaps_client_read_result_cb	64	static
+gaps_client.c:333:13:gaps_client_discover_result_cb	16	static
+gaps_client.c:281:13:gaps_client_discover_state_cb	40	static
+gaps_client.c:437:13:gaps_client_disc_cb	8	static
+gaps_client.c:60:5:gaps_start_discovery	16	static
+gaps_client.c:98:5:gaps_read	24	static
+gaps_client.c:171:5:gaps_get_hdl_cache	16	static
+gaps_client.c:213:5:gaps_set_hdl_cache	24	static
+gaps_client.c:242:5:gaps_check_resolvable_private_addr_only_char	8	static
+gaps_client.c:478:13:gaps_add_client	24	static

@@ -1,0 +1,7 @@
+hoags_commands.c:10:6:printHoagsHelp	8	static
+hoags_commands.c:43:5:hoagsEFUSERead	80	static
+hoags_commands.c:62:5:hoagsEFUSEWrite	32	static
+hoags_commands.c:75:15:_2char2hex	16	static
+hoags_commands.c:86:10:hextstrTOshort	8	static
+hoags_commands.c:91:6:parseHoagsCommands	336	static
+hoags_commands.c:281:8:split_string	32	static

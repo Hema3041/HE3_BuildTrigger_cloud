@@ -1,0 +1,4 @@
+example_socket_tcp_trx_2.c:60:13:example_socket_tcp_trx_thread	80	static
+example_socket_tcp_trx_2.c:43:13:rx_thread	1032	static
+example_socket_tcp_trx_2.c:12:13:tx_thread	1040	static
+example_socket_tcp_trx_2.c:121:6:example_socket_tcp_trx_2	16	static

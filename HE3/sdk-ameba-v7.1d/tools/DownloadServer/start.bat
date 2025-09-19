@@ -1,0 +1,3 @@
+@echo off
+DownloadServer 8082 firmware_is.bin
+set /p DUMMY=Press Enter to Continue ...

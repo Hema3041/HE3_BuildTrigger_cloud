@@ -1,0 +1,16 @@
+hal_efuse.c:52:10:hal_efuse_autoload_en	0	static
+hal_efuse.c:65:10:hal_efuse_hci_autoload_en	0	static
+hal_efuse.c:80:10:hal_efuse_read	4	static
+hal_efuse.c:95:10:hal_efuse_write	4	static
+hal_efuse.c:110:10:hal_sec_efuse_read	4	static
+hal_efuse.c:125:10:hal_sec_efuse_write	4	static
+hal_efuse.c:140:10:hal_sec_key_get	24	static
+hal_efuse.c:155:10:hal_sec_key_write	4	static
+hal_efuse.c:169:10:hal_susec_key_get	0	static
+hal_efuse.c:183:10:hal_susec_key_write	0	static
+hal_efuse.c:197:10:hal_s_jtag_key_write	0	static
+hal_efuse.c:211:10:hal_ns_jtag_key_write	0	static
+hal_efuse.c:225:10:hal_user_otp_get	0	static
+hal_efuse.c:239:10:hal_user_otp_set	0	static
+hal_efuse.c:251:10:hal_efuse_disable_sec_jtag	4	static
+hal_efuse.c:262:10:hal_efuse_disable_nonsec_jtag	4	static

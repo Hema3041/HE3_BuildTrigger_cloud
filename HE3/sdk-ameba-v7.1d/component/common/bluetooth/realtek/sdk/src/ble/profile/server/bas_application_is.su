@@ -1,0 +1,6 @@
+bas.c:282:6:bas_cccd_update_cb	40	static
+bas.c:236:14:bas_attr_read_cb	40	static
+bas.c:136:5:bas_set_parameter	8	static
+bas.c:185:5:bas_battery_level_value_notify	32	static
+bas.c:210:5:bas_battery_level_value_read_confirm	32	static
+bas.c:348:13:bas_add_service	24	static

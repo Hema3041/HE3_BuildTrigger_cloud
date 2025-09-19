@@ -1,0 +1,7 @@
+dataCollector.c:73:6:initQueue	8	static
+dataCollector.c:220:6:sendAckToCloud	24	static
+dataCollector.c:259:6:createResigsterData	104	static
+dataCollector.c:608:6:fetchDeviceDetails	8	static
+dataCollector.c:313:6:createPowerUsageData	32	static
+dataCollector.c:329:6:createFilterChange	32	static
+dataCollector.c:1061:6:startDataCollector	16	static

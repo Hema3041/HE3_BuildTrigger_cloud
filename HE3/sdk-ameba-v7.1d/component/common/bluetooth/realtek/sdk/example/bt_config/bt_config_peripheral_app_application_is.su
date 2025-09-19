@@ -1,0 +1,10 @@
+bt_config_peripheral_app.c:125:6:bt_config_app_set_adv_data	64	static
+bt_config_peripheral_app.c:152:6:bt_config_app_handle_dev_state_evt	80	static
+bt_config_peripheral_app.c:204:6:bt_config_app_handle_conn_state_evt	96	static
+bt_config_peripheral_app.c:64:6:bt_config_app_handle_io_msg	48	static
+bt_config_peripheral_app.c:286:6:bt_config_app_handle_authen_state_evt	24	static
+bt_config_peripheral_app.c:326:6:bt_config_app_handle_conn_mtu_info_evt	16	static
+bt_config_peripheral_app.c:339:6:bt_config_app_handle_conn_param_update_evt	24	static
+bt_config_peripheral_app.c:381:6:bt_config_app_handle_gap_msg	40	static
+bt_config_peripheral_app.c:483:14:bt_config_app_gap_callback	16	static
+bt_config_peripheral_app.c:527:14:bt_config_app_profile_callback	16	static

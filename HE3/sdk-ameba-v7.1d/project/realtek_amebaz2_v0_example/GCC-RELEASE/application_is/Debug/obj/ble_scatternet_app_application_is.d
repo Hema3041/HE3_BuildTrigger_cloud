@@ -1,0 +1,36 @@
+../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_app_application_is.o: \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_app.c \
+ ../../../component/common/api/platform/time64.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/api/platform/platform_stdlib_rtl8710c.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/basic_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/app/app_msg.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace_app.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_scan.h \
+ ../../../component/common/bluetooth/realtek/sdk/board/amebaz2/lib/bt_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/bt_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_callback_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_storage_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_adv.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_msg.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_bond_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_app.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/profile_client.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/gatt.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_app_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/app/app_common_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/profile_server.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_link_mgr.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_conn_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_scatternet/ble_scatternet_user_cmd.h \
+ ../inc/platform_opts_bt.h \
+ ../../../component/common/bluetooth/realtek/sdk/src/mcu/module/data_uart_cmd/user_cmd_parse.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/client/gcs_client.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/gatt_builtin_services.h \
+ ../../../component/common/bluetooth/realtek/sdk/src/mcu/module/data_uart_cmd/data_uart.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_central/ble_central_at_cmd.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_peripheral/ble_peripheral_at_cmd.h

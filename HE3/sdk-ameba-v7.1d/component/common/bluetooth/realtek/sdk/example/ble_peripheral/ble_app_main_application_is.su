@@ -1,0 +1,10 @@
+ble_app_main.c:232:6:bt_stack_config_init	8	static
+ble_app_main.c:242:6:app_le_gap_init	104	static
+ble_app_main.c:332:6:app_le_profile_init	8	static
+ble_app_main.c:348:6:board_init	0	static
+ble_app_main.c:358:6:driver_init	0	static
+ble_app_main.c:367:6:pwr_mgr_init	0	static
+ble_app_main.c:376:6:task_init	0	static
+ble_app_main.c:385:5:ble_app_main	8	static
+ble_app_main.c:402:5:ble_app_init	16	static
+ble_app_main.c:441:6:ble_app_deinit	16	static

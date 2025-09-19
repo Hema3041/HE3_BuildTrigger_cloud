@@ -1,0 +1,8 @@
+autoip.c:106:1:autoip_set_struct	0	static
+autoip.c:254:1:autoip_start	24	static
+autoip.c:332:1:autoip_network_changed	16	static
+autoip.c:348:1:autoip_stop	8	static
+autoip.c:365:1:autoip_tmr	32	static
+autoip.c:453:1:autoip_arp_reply	24	static
+autoip.c:511:1:autoip_supplied_address	0	static
+autoip.c:521:1:autoip_accept_packet	0	static

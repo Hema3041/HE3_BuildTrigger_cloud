@@ -1,0 +1,8 @@
+rtc_api.c:62:6:sw_rtc_tick_handler	24	static
+rtc_api.c:98:6:rtc_init	8	static
+rtc_api.c:107:6:rtc_free	8	static
+rtc_api.c:114:5:rtc_isenabled	0	static
+rtc_api.c:119:11:rtc_read	0	static
+rtc_api.c:129:6:rtc_write	32	static
+rtc_api.c:162:10:rtc_set_alarm	32	static
+rtc_api.c:184:6:rtc_disable_alarm	0	static

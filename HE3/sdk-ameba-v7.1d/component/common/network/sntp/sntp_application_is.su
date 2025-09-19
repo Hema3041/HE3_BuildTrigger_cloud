@@ -1,0 +1,12 @@
+sntp.c:449:1:sntp_retry	8	static
+sntp.c:657:1:sntp_request	24	static
+sntp.c:634:1:sntp_dns_found	16	static
+sntp.c:508:1:sntp_recv	40	static
+sntp.c:153:6:sntp_get_lasttime	8	static
+sntp.c:160:6:sntp_set_lasttime	16	static
+sntp.c:167:11:sntp_gen_system_time	32	static
+sntp.c:195:6:convert_epoch_to_tm_with_offset	24	static
+sntp.c:201:11:hoags_sntp_gen_system_time	80	static
+sntp.c:230:5:sntp_set_timeserver	24	static
+sntp.c:697:1:sntp_init	16	static
+sntp.c:718:1:sntp_stop	8	static

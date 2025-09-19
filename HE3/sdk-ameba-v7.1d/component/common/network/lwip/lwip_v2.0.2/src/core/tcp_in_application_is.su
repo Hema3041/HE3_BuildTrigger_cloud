@@ -1,0 +1,6 @@
+tcp_in.c:970:1:tcp_oos_insert_segment	24	static
+tcp_in.c:1016:1:tcp_receive	40	static
+tcp_in.c:536:1:tcp_input_delayed_close.part.3	8	static
+tcp_in.c:1733:1:tcp_parseopt.isra.1.part.2	48	static
+tcp_in.c:104:1:tcp_input	64	static
+tcp_in.c:1836:1:tcp_trigger_input_pcb_close	0	static

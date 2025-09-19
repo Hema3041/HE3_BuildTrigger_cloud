@@ -1,0 +1,14 @@
+atcmd_lwip.c:3922:13:server_start_task	96	static
+atcmd_lwip.c:3892:13:client_start_task	64	static
+atcmd_lwip.c:3101:6:socket_close	24	static
+atcmd_lwip.c:3950:6:fATP1	8	static
+atcmd_lwip.c:3961:6:fATP2	8	static
+atcmd_lwip.c:3973:6:fATP3	8	static
+atcmd_lwip.c:3985:6:fATP4	8	static
+atcmd_lwip.c:3997:6:fATP5	32	static
+atcmd_lwip.c:4044:6:fATP6	32	static
+atcmd_lwip.c:4092:6:fATPZ	16	static
+atcmd_lwip.c:4113:6:fATR0	16	static
+atcmd_lwip.c:4138:6:fATR1	8	static
+atcmd_lwip.c:4157:6:fATRA	80	static
+atcmd_lwip.c:4205:6:fATRB	8	static

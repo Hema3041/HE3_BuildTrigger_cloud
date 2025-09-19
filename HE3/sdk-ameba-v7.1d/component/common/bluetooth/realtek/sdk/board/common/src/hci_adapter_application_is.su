@@ -1,0 +1,8 @@
+hci_adapter.c:35:5:hci_rtk_tx_cb	8	static
+hci_adapter.c:45:5:hci_adapter_send	0	static
+hci_adapter.c:52:6:hci_tp_open	16	static
+hci_adapter.c:86:6:hci_tp_close	8	static
+hci_adapter.c:94:6:hci_tp_del	8	static
+hci_adapter.c:102:5:hci_tp_send	0	static
+hci_adapter.c:107:10:hci_tp_recv	0	static
+hci_adapter.c:112:6:hci_tp_config	24	static

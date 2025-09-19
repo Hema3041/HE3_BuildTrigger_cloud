@@ -1,0 +1,2 @@
+ble_scatternet_link_mgr.c:56:5:ble_scatternet_link_mgr_add_device	24	static
+ble_scatternet_link_mgr.c:89:6:ble_scatternet_link_mgr_clear_device_list	0	static

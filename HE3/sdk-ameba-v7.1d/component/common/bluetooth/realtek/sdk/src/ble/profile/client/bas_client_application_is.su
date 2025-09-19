@@ -1,0 +1,13 @@
+bas_client.c:522:21:bas_client_notify_ind_cb	16	static
+bas_client.c:427:13:bas_client_write_result_cb	48	static
+bas_client.c:463:13:bas_client_read_result_cb	48	static
+bas_client.c:311:13:bas_client_discover_state_cb	32	static
+bas_client.c:383:13:bas_client_discover_result_cb	16	static
+bas_client.c:549:13:bas_client_disc_cb	8	static
+bas_client.c:62:5:bas_start_discovery	16	static
+bas_client.c:98:5:bas_read_battery_level	8	static
+bas_client.c:135:5:bas_set_notify	40	static
+bas_client.c:175:5:bas_read_notify	8	static
+bas_client.c:215:5:bas_get_hdl_cache	8	static
+bas_client.c:257:5:bas_set_hdl_cache	16	static
+bas_client.c:590:13:bas_add_client	24	static

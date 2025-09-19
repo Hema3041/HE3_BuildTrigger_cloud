@@ -1,0 +1,27 @@
+../../../component/soc/realtek/8710c/misc/utilities/source/ram/libc_wrap_application_is.o: \
+ ../../../component/soc/realtek/8710c/misc/utilities/source/ram/libc_wrap.c \
+ ../../../component/common/api/platform/time64.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/platform_conf.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/basic_types.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/ctype.h \
+ ../../../component/soc/realtek/8710c/app/stdio_port/stdio_port.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/rt_printf.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_compiler.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_gcc.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/printf_entry.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/log_buf.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/memory.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/utility.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/strproc.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/src/include/lwip/errno.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/src/include/lwip/opt.h \
+ ../../../component/common/api/network/include/lwipopts.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/api/platform/platform_stdlib_rtl8710c.h \
+ ../inc/platform_opts.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/src/include/lwip/init.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/src/include/lwip/debug.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/src/include/lwip/arch.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/port/realtek/arch/cc.h \
+ ../../../component/common/network/lwip/lwip_v2.0.2/port/realtek/arch/cpu.h \
+ ../../../component/common/api/platform/platform_stdlib.h

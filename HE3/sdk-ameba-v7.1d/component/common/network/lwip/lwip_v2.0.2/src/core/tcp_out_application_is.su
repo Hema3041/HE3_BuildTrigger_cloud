@@ -1,0 +1,11 @@
+tcp_out.c:143:1:tcp_send_fin	24	static
+tcp_out.c:372:1:tcp_write	96	static
+tcp_out.c:789:1:tcp_enqueue_flags	48	static
+tcp_out.c:922:1:tcp_send_empty_ack	40	static
+tcp_out.c:997:1:tcp_output	64	static
+tcp_out.c:1348:1:tcp_rst	48	static
+tcp_out.c:1403:1:tcp_rexmit_rto	4	static
+tcp_out.c:1446:1:tcp_rexmit	24	static
+tcp_out.c:1494:1:tcp_rexmit_fast	24	static
+tcp_out.c:1536:1:tcp_keepalive	48	static
+tcp_out.c:1590:1:tcp_zero_window_probe	48	static

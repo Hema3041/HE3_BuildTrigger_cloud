@@ -1,0 +1,3 @@
+example_get_beacon_frame.c:16:5:get_beacon_frame_func	48	static
+example_get_beacon_frame.c:33:6:get_beacon_frame_thread	8	static
+example_get_beacon_frame.c:45:6:example_get_beacon_frame	16	static

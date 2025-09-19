@@ -1,0 +1,6 @@
+http_client.c:9:14:http_strstr	12	static
+http_client.c:44:6:http_free	0	static
+http_client.c:63:7:http_post_header	40	static
+http_client.c:74:7:http_get_header	16	static
+http_client.c:82:7:http_response_header	24	static
+http_client.c:106:7:http_response_body	24	static

@@ -1,0 +1,4 @@
+mDNSPlatform.c:11:6:mDNSPlatformCustomInit	0	static
+mDNSPlatform.c:16:10:mDNSPlatformHtons	0	static
+mDNSPlatform.c:21:10:mDNSPlatformInetAddr	0	static
+mDNSPlatform.c:28:7:mDNSPlatformHostname	0	static

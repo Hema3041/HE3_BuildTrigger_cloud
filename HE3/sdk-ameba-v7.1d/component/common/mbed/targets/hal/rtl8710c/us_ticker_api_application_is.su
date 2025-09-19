@@ -1,0 +1,4 @@
+us_ticker_api.c:23:6:us_ticker_set_handler	8	static
+us_ticker_api.c:30:6:us_ticker_irq_handler	16	static
+us_ticker_api.c:62:6:us_ticker_insert_event	16	static
+us_ticker_api.c:98:6:us_ticker_remove_event	8	static

@@ -1,0 +1,12 @@
+hal_ssi.c:65:14:hal_ssi_pin_ctl	32	static
+hal_ssi.c:104:14:hal_ssi_init	32	static
+hal_ssi.c:119:6:hal_ssi_toggle_between_frame	4	static
+hal_ssi.c:143:6:hal_spi_format	8	static
+hal_ssi.c:189:6:hal_ssi_callback_hook	0	static
+hal_ssi.c:211:14:hal_ssi_deinit	24	static
+hal_ssi.c:241:14:hal_ssi_tx_gdma_init	24	static
+hal_ssi.c:293:14:hal_ssi_rx_gdma_init	24	static
+hal_ssi.c:345:14:hal_ssi_tx_gdma_deinit	8	static
+hal_ssi.c:372:14:hal_ssi_rx_gdma_deinit	8	static
+hal_ssi.c:403:14:hal_ssi_dma_send	24	static
+hal_ssi.c:441:14:hal_ssi_dma_recv	8	static

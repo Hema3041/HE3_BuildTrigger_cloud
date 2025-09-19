@@ -1,0 +1,7 @@
+ble_scatternet_app_main.c:149:6:ble_scatternet_bt_stack_config_init	0	static
+ble_scatternet_app_main.c:158:6:ble_scatternet_app_le_gap_init	160	static
+ble_scatternet_app_main.c:304:6:ble_scatternet_app_le_profile_init	8	static
+ble_scatternet_app_main.c:328:6:ble_scatternet_task_init	0	static
+ble_scatternet_app_main.c:341:5:ble_scatternet_app_main	8	static
+ble_scatternet_app_main.c:398:5:ble_scatternet_app_init	16	static
+ble_scatternet_app_main.c:466:6:ble_scatternet_app_deinit	16	static

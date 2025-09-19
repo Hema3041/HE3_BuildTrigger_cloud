@@ -1,0 +1,10 @@
+gpio_irq_api.c:49:5:gpio_irq_init	32	static
+gpio_irq_api.c:72:6:gpio_irq_free	0	static
+gpio_irq_api.c:92:6:gpio_irq_set	24	static
+gpio_irq_api.c:117:6:gpio_irq_enable	0	static
+gpio_irq_api.c:127:6:gpio_irq_disable	0	static
+gpio_irq_api.c:137:6:gpio_irq_deinit	0	static
+gpio_irq_api.c:152:6:gpio_irq_pull_ctrl	8	static
+gpio_irq_api.c:184:6:gpio_irq_set_event	16	static
+gpio_irq_api.c:212:5:gpio_irq_debounce_set	8	static
+gpio_irq_api.c:234:5:gpio_irq_read	0	static

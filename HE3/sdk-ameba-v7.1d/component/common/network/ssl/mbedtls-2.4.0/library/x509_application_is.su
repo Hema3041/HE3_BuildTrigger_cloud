@@ -1,0 +1,14 @@
+x509.c:88:5:mbedtls_x509_get_serial	16	static
+x509.c:119:5:mbedtls_x509_get_alg_null	8	static
+x509.c:133:5:mbedtls_x509_get_alg	8	static
+x509.c:430:5:mbedtls_x509_get_name	40	static
+x509.c:525:5:mbedtls_x509_get_time	40	static
+x509.c:590:5:mbedtls_x509_get_sig	24	static
+x509.c:617:5:mbedtls_x509_get_sig_alg	16	static
+x509.c:666:5:mbedtls_x509_get_ext	24	static
+x509.c:707:5:mbedtls_x509_dn_gets	296	static
+x509.c:769:5:mbedtls_x509_serial_gets	56	static
+x509.c:803:5:mbedtls_x509_sig_alg_gets	24	static
+x509.c:848:5:mbedtls_x509_key_size_helper	8	static
+x509.c:980:5:mbedtls_x509_time_is_past	0	static
+x509.c:986:5:mbedtls_x509_time_is_future	0	static

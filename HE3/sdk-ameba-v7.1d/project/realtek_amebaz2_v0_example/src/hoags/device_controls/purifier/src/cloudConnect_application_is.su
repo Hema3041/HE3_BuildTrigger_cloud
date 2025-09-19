@@ -1,0 +1,15 @@
+cloudConnect.c:10:6:suspendCloudTask	8	static
+cloudConnect.c:15:6:resumeCloudTask	8	static
+cloudConnect.c:20:6:initMutexCloudSend	8	static
+cloudConnect.c:27:6:string_to_hex	24	static
+cloudConnect.c:36:6:getVersion	24	static
+cloudConnect.c:41:6:makeRegisterPkt	544	static
+cloudConnect.c:149:6:makeDataPacket	176	static
+cloudConnect.c:210:6:checkInternet	8	static
+cloudConnect.c:221:6:NetworkInitHoags	24	static
+cloudConnect.c:253:5:sendDataToCloud	856	static
+cloudConnect.c:241:5:sendRegistrationPacket	408	static
+cloudConnect.c:326:6:initMqttQueue	8	static
+cloudConnect.c:337:6:runMqttTask	480	static
+cloudConnect.c:333:15:getMqttQueueHandle	0	static
+cloudConnect.c:373:6:startMqttTask	16	static

@@ -1,0 +1,4 @@
+rtk_coex.c:39:6:bt_coex_handle_cmd_complete_evt	0	static
+rtk_coex.c:63:6:bt_coex_handle_specific_evt	0	static
+rtk_coex.c:73:14:bt_coex_sw_mailbox_set	48	static
+rtk_coex.c:97:6:bt_coex_init	0	static

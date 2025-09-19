@@ -1,0 +1,11 @@
+timer_api.c:40:6:gtimer_init	24	static
+timer_api.c:72:6:gtimer_deinit	0	static
+timer_api.c:82:10:gtimer_read_tick	0	static
+timer_api.c:92:10:gtimer_read_us	0	static
+timer_api.c:117:6:gtimer_reload	16	static
+timer_api.c:130:6:gtimer_start	0	static
+timer_api.c:144:6:gtimer_start_one_shout	4	static
+timer_api.c:158:6:gtimer_start_periodical	4	static
+timer_api.c:168:6:gtimer_stop	0	static
+timer_api.c:182:6:gtimer_enable_alarm	24	static
+timer_api.c:194:6:gtimer_disable_alarm	0	static

@@ -1,0 +1,3 @@
+wait_api.c:19:6:wait	16	static
+wait_api.c:24:6:wait_ms	16	static
+wait_api.c:29:6:wait_us	16	static

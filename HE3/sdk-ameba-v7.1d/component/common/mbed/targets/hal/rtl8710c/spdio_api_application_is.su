@@ -1,0 +1,6 @@
+spdio_api.c:39:8:spdio_rx_done_cb	24	static
+spdio_api.c:52:8:spdio_tx_done_cb	8	static
+spdio_api.c:65:8:spdio_tx	0	static
+spdio_api.c:70:6:spdio_structinit	0	static
+spdio_api.c:81:6:spdio_init	8	static
+spdio_api.c:101:6:spdio_deinit	8	static

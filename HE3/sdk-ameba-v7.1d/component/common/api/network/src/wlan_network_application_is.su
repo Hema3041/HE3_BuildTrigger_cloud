@@ -1,0 +1,2 @@
+wlan_network.c:38:6:init_thread	8	static
+wlan_network.c:80:6:wlan_network	16	static

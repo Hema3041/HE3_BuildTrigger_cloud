@@ -1,0 +1,7 @@
+ble_peripheral_at_cmd.c:63:6:ble_peripheral_at_cmd_send_msg	32	static
+ble_peripheral_at_cmd.c:95:5:ble_peripheral_at_cmd_set_adv_int	24	static
+ble_peripheral_at_cmd.c:136:5:ble_peripheral_at_cmd_auth	32	static
+ble_peripheral_at_cmd.c:225:5:ble_peripheral_at_cmd_send_userconf	16	static
+ble_peripheral_at_cmd.c:245:5:ble_peripheral_at_cmd_update_conn_request	56	static
+ble_peripheral_at_cmd.c:266:5:ble_peripheral_at_cmd_bond_information	48	static
+ble_peripheral_at_cmd.c:297:5:ble_peripheral_app_handle_at_cmd	64	static

@@ -1,0 +1,10 @@
+simple_ble_service.c:356:6:simple_write_post_callback	24	static
+simple_ble_service.c:638:6:simp_ble_service_cccd_update_cb	48	static
+simple_ble_service.c:281:14:simp_ble_service_attr_read_cb	40	static
+simple_ble_service.c:375:14:simp_ble_service_attr_write_cb	56	static
+simple_ble_service.c:240:5:simp_ble_service_set_parameter	8	static
+simple_ble_service.c:451:5:simp_ble_service_send_v3_notify	32	static
+simple_ble_service.c:464:10:getBleConnHandle	0	static
+simple_ble_service.c:468:6:simple_ble_srv_cccd_notify	1152	static
+simple_ble_service.c:620:5:simp_ble_service_send_v4_indicate	32	static
+simple_ble_service.c:708:13:simp_ble_service_add_service	24	static

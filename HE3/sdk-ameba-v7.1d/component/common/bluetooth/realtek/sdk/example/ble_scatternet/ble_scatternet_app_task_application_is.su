@@ -1,0 +1,4 @@
+ble_scatternet_app_task.c:99:6:ble_scatternet_app_main_task	32	static
+ble_scatternet_app_task.c:64:6:ble_scatternet_send_msg	32	static
+ble_scatternet_app_task.c:88:6:ble_scatternet_app_task_init	16	static
+ble_scatternet_app_task.c:138:6:ble_scatternet_app_task_deinit	24	static

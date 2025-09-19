@@ -1,0 +1,6 @@
+wifi_ind.c:86:6:wifi_indication	32	static
+wifi_ind.c:218:6:wifi_reg_event_handler	16	static
+wifi_ind.c:237:6:wifi_unreg_event_handler	8	static
+wifi_ind.c:251:6:init_event_callback_list	0	static
+wifi_ind.c:255:5:wifi_manager_init	0	static
+wifi_ind.c:266:6:rtw_wifi_manager_deinit	0	static

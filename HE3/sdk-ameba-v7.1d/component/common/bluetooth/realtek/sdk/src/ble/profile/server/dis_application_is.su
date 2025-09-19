@@ -1,0 +1,3 @@
+dis.c:550:14:dis_attr_read_cb	32	static
+dis.c:422:5:dis_set_parameter	16	static
+dis.c:679:13:dis_add_service	24	static

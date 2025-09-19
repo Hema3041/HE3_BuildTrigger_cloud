@@ -1,0 +1,3 @@
+flash_api_ext.c:9:6:flash_resource_lock	0	static
+flash_api_ext.c:19:6:flash_resource_unlock	0	static
+flash_api_ext.c:37:6:flash_erase_dword	80	static

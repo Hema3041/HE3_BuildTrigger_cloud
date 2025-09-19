@@ -1,0 +1,15 @@
+LED.c:19:6:initialize_Htap_LED	24	static
+LED.c:45:6:init_htap_led	24	static
+LED.c:52:6:set_led_blink_speed	16	static
+LED.c:61:6:wakeword_det_led_on	176	static
+LED.c:92:6:mic_mute_led	184	static
+LED.c:110:6:wifi_ble_conn	184	static
+LED.c:121:6:wifi_ble_disconn	184	static
+LED.c:132:6:ota_update_mod_tranfer	184	static
+LED.c:144:6:WW_LEDNoColor	8	static
+LED.c:150:6:cmd_det_led_off	184	static
+LED.c:168:6:cmd_det_fail_led_off	184	static
+LED.c:186:6:blink_LED	184	static
+LED.c:196:6:breathe_LED	16	static
+LED.c:225:6:led_always_on	8	static
+LED.c:231:6:led_always_off	8	static

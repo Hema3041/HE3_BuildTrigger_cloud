@@ -1,0 +1,11 @@
+httpc_tls.c:78:14:_calloc_func	16	static
+httpc_tls.c:61:12:_verify_func	1032	static
+httpc_tls.c:93:12:_random_func	8	static
+httpc_tls.c:8:5:httpc_setsockopt_rcvtimeo	24	static
+httpc_tls.c:102:7:httpc_tls_new	56	static
+httpc_tls.c:271:6:httpc_tls_free	8	static
+httpc_tls.c:291:5:httpc_tls_handshake	16	static
+httpc_tls.c:326:6:httpc_tls_close	0	static
+httpc_tls.c:337:5:httpc_tls_read	0	static
+httpc_tls.c:348:5:httpc_tls_write	0	static
+httpc_tls.c:359:5:httpc_base64_encode	32	static

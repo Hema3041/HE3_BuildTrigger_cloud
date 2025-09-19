@@ -1,0 +1,12 @@
+lwip_intf.c:46:6:rltk_wlan_set_netif_info	16	static
+lwip_intf.c:68:5:rltk_wlan_send	24	static
+lwip_intf.c:128:6:rltk_wlan_recv	16	static
+lwip_intf.c:151:5:netif_is_valid_IP	16	static
+lwip_intf.c:206:5:netif_get_idx	0	static
+lwip_intf.c:224:16:netif_get_hwaddr	0	static
+lwip_intf.c:244:6:netif_rx	0	static
+lwip_intf.c:260:6:netif_post_sleep_processing	0	static
+lwip_intf.c:270:6:netif_pre_sleep_processing	0	static
+lwip_intf.c:281:16:rltk_wlan_get_ip	0	static
+lwip_intf.c:288:16:rltk_wlan_get_gw	0	static
+lwip_intf.c:296:16:rltk_wlan_get_gwmask	0	static

@@ -1,0 +1,28 @@
+../../../component/common/bluetooth/realtek/sdk/example/bt_config/bt_config_service_application_is.o: \
+ ../../../component/common/bluetooth/realtek/sdk/example/bt_config/bt_config_service.c \
+ ../../../component/common/api/platform/time64.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace_app.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/bt_config/bt_config_service.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/profile_server.h \
+ ../../../component/common/bluetooth/realtek/sdk/board/amebaz2/lib/bt_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/bt_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/gatt.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_callback_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_storage_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/bt_config/bt_config_config.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/diag.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/platform_conf.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/basic_types.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/log_buf.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/rt_printf.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_compiler.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_gcc.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/printf_entry.h \
+ ../../../component/soc/realtek/8710c/app/stdio_port/stdio_port.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/utility.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/api/platform/platform_stdlib_rtl8710c.h

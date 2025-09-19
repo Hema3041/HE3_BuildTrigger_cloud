@@ -1,0 +1,10 @@
+sn_coap_ameba_port.c:15:7:coap_malloc	0	static
+sn_coap_ameba_port.c:19:6:coap_free	0	static
+sn_coap_ameba_port.c:5:10:randLIB_get_16bit	16	static
+sn_coap_ameba_port.c:23:7:coap_calloc	16	static
+sn_coap_ameba_port.c:40:17:coap_protocol_init	0	static
+sn_coap_ameba_port.c:47:5:coap_sock_open	0	static
+sn_coap_ameba_port.c:60:5:coap_sock_close	0	static
+sn_coap_ameba_port.c:73:5:coap_send	56	static
+sn_coap_ameba_port.c:118:5:coap_recv	32	static
+sn_coap_ameba_port.c:133:6:coap_print_hdr	16	static

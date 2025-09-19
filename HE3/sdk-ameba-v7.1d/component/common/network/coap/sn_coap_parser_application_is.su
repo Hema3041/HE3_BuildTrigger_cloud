@@ -1,0 +1,6 @@
+sn_coap_parser.c:570:15:sn_coap_parser_options_parse_multiple_options.isra.1	48	static
+sn_coap_parser.c:48:16:sn_coap_parser_init_message	8	static
+sn_coap_parser.c:63:16:sn_coap_parser_alloc_message	8	static
+sn_coap_parser.c:78:25:sn_coap_parser_alloc_options	16	static
+sn_coap_parser.c:110:16:sn_coap_parser	72	static
+sn_coap_parser.c:148:6:sn_coap_parser_release_allocated_coap_msg_mem	16	static

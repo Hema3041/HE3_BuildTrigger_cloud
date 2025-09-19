@@ -1,0 +1,5 @@
+wdt_api.c:41:6:watchdog_init	0	static
+wdt_api.c:53:6:watchdog_start	0	static
+wdt_api.c:65:6:watchdog_stop	0	static
+wdt_api.c:77:6:watchdog_refresh	0	static
+wdt_api.c:93:6:watchdog_irq_init	0	static

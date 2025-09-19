@@ -1,0 +1,2 @@
+example_wifi_mac_monitor.c:14:5:get_station_mac	40	static
+example_wifi_mac_monitor.c:21:6:example_wifi_mac_monitor	0	static

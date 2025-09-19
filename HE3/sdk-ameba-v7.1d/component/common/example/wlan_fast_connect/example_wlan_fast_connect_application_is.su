@@ -1,0 +1,4 @@
+example_wlan_fast_connect.c:41:5:wlan_write_reconnect_data_to_flash	184	static
+example_wlan_fast_connect.c:80:5:wlan_init_done_callback	136	static
+example_wlan_fast_connect.c:184:5:Erase_Fastconnect_data	16	static
+example_wlan_fast_connect.c:193:6:example_wlan_fast_connect	0	static

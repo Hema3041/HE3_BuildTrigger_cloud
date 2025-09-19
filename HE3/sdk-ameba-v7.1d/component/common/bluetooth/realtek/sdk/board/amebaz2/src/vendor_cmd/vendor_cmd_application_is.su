@@ -1,0 +1,7 @@
+vendor_cmd.c:117:6:app_gap_vendor_callback	40	static
+vendor_cmd.c:12:5:mailbox_to_bt	24	static
+vendor_cmd.c:31:5:mailbox_to_bt_set_profile_report	24	static
+vendor_cmd.c:51:13:le_vendor_one_shot_adv	16	static
+vendor_cmd.c:66:13:le_adv_set_tx_power	16	static
+vendor_cmd.c:82:13:le_set_conn_tx_power	40	static
+vendor_cmd.c:172:6:vendor_cmd_init	0	static

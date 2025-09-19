@@ -1,0 +1,6 @@
+hids.c:504:21:hids_attr_read_cb	24	static
+hids.c:571:21:hids_attr_write_cb	32	static
+hids.c:634:6:hids_cccd_update_cb	48	static
+hids.c:447:5:hids_set_parameter	8	static
+hids.c:725:5:hids_send_report	40	static
+hids.c:761:13:hids_add_service	24	static

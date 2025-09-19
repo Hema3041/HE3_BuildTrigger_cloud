@@ -1,0 +1,8 @@
+bt_config_app_main.c:96:6:bt_config_stack_config_init	8	static
+bt_config_app_main.c:172:6:bt_config_app_le_profile_init	8	static
+bt_config_app_main.c:184:6:bt_config_task_init	8	static
+bt_config_app_main.c:191:6:bt_config_task_deinit	8	static
+bt_config_app_main.c:204:9:get_bt_config_state	0	static
+bt_config_app_main.c:209:6:set_bt_config_state	0	static
+bt_config_app_main.c:214:5:bt_config_app_init	120	static
+bt_config_app_main.c:278:6:bt_config_app_deinit	16	static

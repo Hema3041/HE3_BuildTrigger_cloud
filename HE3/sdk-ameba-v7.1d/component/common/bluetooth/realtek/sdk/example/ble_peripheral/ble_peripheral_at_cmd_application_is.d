@@ -1,0 +1,43 @@
+../../../component/common/bluetooth/realtek/sdk/example/ble_peripheral/ble_peripheral_at_cmd_application_is.o: \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_peripheral/ble_peripheral_at_cmd.c \
+ ../../../component/common/api/platform/time64.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/FreeRTOS.h \
+ ../inc/FreeRTOSConfig.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/diag.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/platform_conf.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/basic_types.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/log_buf.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/rt_printf.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_compiler.h \
+ ../../../component/soc/realtek/8710c/cmsis/cmsis-core/include/cmsis_gcc.h \
+ ../../../component/soc/realtek/8710c/app/rtl_printf/include/printf_entry.h \
+ ../../../component/soc/realtek/8710c/app/stdio_port/stdio_port.h \
+ ../../../component/soc/realtek/8710c/misc/utilities/include/utility.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/projdefs.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/portable.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/deprecated_definitions.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/portable/GCC/ARM_RTL8710C/portmacro.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/mpu_wrappers.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/task.h \
+ ../../../component/os/freertos/freertos_v10.0.1/Source/include/list.h \
+ ../../../component/common/api/at_cmd/log_service.h \
+ ../../../component/common/api/platform/dlist.h ../inc/platform_opts.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/api/platform/platform_stdlib_rtl8710c.h \
+ ../../../component/common/api/at_cmd/atcmd_bt.h \
+ ../inc/platform_opts_bt.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap.h \
+ ../../../component/common/bluetooth/realtek/sdk/board/amebaz2/lib/bt_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/bt_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_adv.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_callback_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_storage_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_bond_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_conn_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_msg.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/app/app_msg.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/ble_peripheral/app_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/os/os_msg.h

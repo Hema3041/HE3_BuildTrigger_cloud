@@ -1,0 +1,6 @@
+bt_uart_bridge.c:63:13:_bt_uart_bridge_irq	40	static
+bt_uart_bridge.c:30:6:bt_uart_tx	24	static
+bt_uart_bridge.c:45:6:bt_uart_bridge_getc	16	static
+bt_uart_bridge.c:329:6:bt_uart_bridge_set	0	static
+bt_uart_bridge.c:338:6:bt_uart_bridge_close	0	static
+bt_uart_bridge.c:349:6:bt_uart_bridge_open	16	static

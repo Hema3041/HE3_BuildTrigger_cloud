@@ -1,0 +1,13 @@
+port.c:291:13:prvPortStartFirstTask	0	static
+port.c:220:6:prvTaskExitError	16	static
+port.c:190:14:pxPortInitialiseStack	8	static
+port.c:250:6:vPortUsageFaultHandler	0	static
+port.c:262:6:SVC_Handler	0	static
+port.c:423:6:vPortEndScheduler	8	static
+port.c:431:6:vPortEnterCritical	8	static
+port.c:448:6:vPortExitCritical	8	static
+port.c:459:6:PendSV_Handler	0	static
+port.c:543:6:SysTick_Handler	8	static
+port.c:734:30:vPortSetupTimerInterrupt	4	static
+port.c:317:12:xPortStartScheduler	24	static
+port.c:774:7:vPortValidateInterruptPriority	8	static

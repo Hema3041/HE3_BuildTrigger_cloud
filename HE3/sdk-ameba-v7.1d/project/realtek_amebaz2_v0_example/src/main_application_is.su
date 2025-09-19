@@ -1,0 +1,16 @@
+main.c:169:6:watch_dog_task	8	static
+main.c:289:6:runUartReceiveTask	360	static
+main.c:279:6:uartInactivityCallback	32	static
+main.c:34:6:getIstDateTimeStored	0	static
+main.c:67:6:uart_send_bytes	24	static
+main.c:86:6:uart_receive_bytes	32	static
+main.c:106:7:getMacId	0	static
+main.c:111:7:hoagsMalloc	16	static
+main.c:163:10:watchdog_timer_expiry	8	static
+main.c:188:6:wdg_task	16	static
+main.c:195:6:rebootRenesas	32	static
+main.c:270:6:suspendUartTask	8	static
+main.c:275:6:resumeUartTask	8	static
+main.c:285:15:getUartInactivityHandle	0	static
+main.c:409:6:startUartReceiveTask	16	static
+main.c:208:5:main	8	static

@@ -1,0 +1,6 @@
+wsclient_tls.c:24:14:my_calloc	16	static
+wsclient_tls.c:53:7:wss_tls_connect	40	static
+wsclient_tls.c:155:5:wss_tls_handshake	16	static
+wsclient_tls.c:186:6:wss_tls_close	16	static
+wsclient_tls.c:216:5:wss_tls_write	8	static
+wsclient_tls.c:232:5:wss_tls_read	8	static

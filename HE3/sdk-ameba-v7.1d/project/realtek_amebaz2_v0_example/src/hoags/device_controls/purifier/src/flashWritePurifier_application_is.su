@@ -1,0 +1,15 @@
+flashWritePurifier.c:16:10:getCurrentValue	0	static
+flashWritePurifier.c:20:10:getDate	0	static
+flashWritePurifier.c:24:13:flash_init_sector	40	static
+flashWritePurifier.c:47:5:flash_allocate_new_sector	8	static
+flashWritePurifier.c:72:6:flash_allocate_init_sector	32	static
+flashWritePurifier.c:86:13:flash_write_inc_data	40	static
+flashWritePurifier.c:146:6:flash_inc_init	64	static
+flashWritePurifier.c:211:6:handleWaterConsumptionData	24	static
+flashWritePurifier.c:257:6:sendLivePeriodicDataToApp	176	static
+flashWritePurifier.c:372:6:printStoredData	8	static
+flashWritePurifier.c:380:6:clear_flash_data_info	0	static
+flashWritePurifier.c:393:6:eraseWaterConsumptionRegion	16	static
+flashWritePurifier.c:415:6:makeCloudPeriodicPacket	576	static
+flashWritePurifier.c:231:6:sendLivePeriodicDataToCloud	432	static
+flashWritePurifier.c:277:6:periodicDataExtract	208	static

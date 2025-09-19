@@ -1,0 +1,8 @@
+cycle_queue.c:34:9:IsCycQueueEmpty	0	static
+cycle_queue.c:48:9:IsCycQueueFull	0	static
+cycle_queue.c:62:10:CycQueueSize	0	static
+cycle_queue.c:76:10:CycQueueRemainSize	0	static
+cycle_queue.c:91:5:CycQueueWrite	32	static
+cycle_queue.c:141:6:UpdateQueueRead	8	static
+cycle_queue.c:158:5:MallocCycQueue	16	static
+cycle_queue.c:178:6:FreeCycQueue	8	static

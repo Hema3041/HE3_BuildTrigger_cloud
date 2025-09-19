@@ -1,0 +1,31 @@
+../../../component/common/application/airsync/1.0.4/wechat_airsync_protocol_application_is.o: \
+ ../../../component/common/application/airsync/1.0.4/wechat_airsync_protocol.c \
+ ../../../component/common/api/platform/time64.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/app/app_msg.h \
+ ../../../component/common/application/airsync/1.0.4/wechat_airsync_protocol.h \
+ ../../../component/common/application/airsync/1.0.4/epb_MmBp.h \
+ ../../../component/common/application/airsync/1.0.4/epb.h \
+ ../../../component/common/application/airsync/1.0.4/airsync_ble_service.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/profile_server.h \
+ ../../../component/common/bluetooth/realtek/sdk/board/amebaz2/lib/bt_flags.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/bt_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/profile/gatt.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_callback_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_storage_le.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/bluetooth/gap/gap_le_types.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace_app.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/trace.h \
+ ../../../component/common/application/airsync/1.0.4/epb_WristBand.h \
+ ../../../component/common/application/airsync/1.0.4/check_endian.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/os/os_mem.h \
+ ../../../component/common/bluetooth/realtek/sdk/inc/platform/mem_types.h \
+ ../inc/platform_opts.h ../inc/platform_opts_bt.h \
+ ../../../component/common/bluetooth/realtek/sdk/example/bt_config/bt_config_wifi.h \
+ ../../../component/common/api/platform/platform_stdlib.h \
+ ../../../component/common/api/platform/platform_stdlib_rtl8710c.h \
+ ../../../component/soc/realtek/8710c/cmsis/rtl8710c/include/basic_types.h \
+ ../../../component/common/drivers/wlan/realtek/include/wifi_structures.h \
+ ../../../component/common/drivers/wlan/realtek/include/wifi_constants.h \
+ ../../../component/common/api/platform/dlist.h

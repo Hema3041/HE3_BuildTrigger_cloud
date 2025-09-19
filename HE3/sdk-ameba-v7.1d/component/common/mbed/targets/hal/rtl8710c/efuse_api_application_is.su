@@ -1,0 +1,9 @@
+efuse_api.c:39:5:efuse_otp_read	48	static
+efuse_api.c:52:5:efuse_otp_write	56	static
+efuse_api.c:66:5:efuse_sec_key_write	8	static
+efuse_api.c:74:5:efuse_susec_key_write	8	static
+efuse_api.c:82:5:efuse_s_jtag_key_write	8	static
+efuse_api.c:90:5:efuse_ns_jtag_key_write	8	static
+efuse_api.c:98:5:efuse_disable_sec_jtag	8	static
+efuse_api.c:104:5:efuse_disable_nonsec_jtag	8	static
+efuse_api.c:110:5:efuse_lock_susec_key	16	static

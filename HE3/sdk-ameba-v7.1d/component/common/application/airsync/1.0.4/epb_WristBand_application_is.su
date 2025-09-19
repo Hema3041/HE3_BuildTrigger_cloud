@@ -1,0 +1,5 @@
+epb_WristBand.c:62:5:epb_mmopen_step_data_item_pack_size	16	static
+epb_WristBand.c:97:5:epb_mmopen_pack_step_data_item	24	static
+epb_WristBand.c:145:5:epb_mmopen_wristband_request_pack_size	32	static
+epb_WristBand.c:162:5:epb_mmopen_pack_wristband_request	72	static
+epb_WristBand.c:198:27:epb_mmopen_unpack_wristband_response	56	static

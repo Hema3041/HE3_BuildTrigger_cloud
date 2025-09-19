@@ -1,0 +1,2 @@
+ota_h3.c:43:5:Verify_CheckSum_BLE	16	static
+ota_h3.c:69:6:ota_update	88	static

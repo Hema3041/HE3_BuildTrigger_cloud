@@ -1,0 +1,8 @@
+bt_config_wifi.c:241:6:BC_status_monitor	8	static
+bt_config_wifi.c:41:21:scan_result_handler	24	static
+bt_config_wifi.c:58:11:BC_req_band_hdl	8	static
+bt_config_wifi.c:79:5:BC_req_scan_hdl	32	static
+bt_config_wifi.c:128:5:BC_req_connect_hdl	112	static
+bt_config_wifi.c:203:6:BC_req_status_hdl	136	static
+bt_config_wifi.c:297:6:bt_config_wifi_init	16	static
+bt_config_wifi.c:311:6:bt_config_wifi_deinit	16	static

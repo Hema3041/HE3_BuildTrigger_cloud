@@ -1,0 +1,5 @@
+freertos_cb.c:6:6:vAssertCalled	16	static
+freertos_cb.c:14:6:vApplicationStackOverflowHook	16	static
+freertos_cb.c:31:6:vApplicationTickHook	0	static
+freertos_cb.c:36:6:vApplicationMallocFailedHook	16	static
+freertos_cb.c:50:6:osUsageFaultHook	0	static

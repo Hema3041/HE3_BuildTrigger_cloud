@@ -1,0 +1,4 @@
+freertos_pmu.c:5:10:pmu_set_sysactive_time	0	static
+freertos_pmu.c:14:6:pmu_register_sleep_callback	0	static
+freertos_pmu.c:23:6:pmu_unregister_sleep_callback	0	static
+freertos_pmu.c:32:10:pmu_yield_os_check	0	static

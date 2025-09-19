@@ -1,0 +1,10 @@
+hal_uart.c:43:9:hal_uart_check_uart_id	24	static
+hal_uart.c:102:14:hal_uart_init	32	static
+hal_uart.c:151:6:hal_uart_deinit	16	static
+hal_uart.c:188:14:hal_uart_set_flow_control	24	static
+hal_uart.c:248:14:hal_uart_tx_gdma_init	24	static
+hal_uart.c:280:14:hal_uart_tx_gdma_deinit	8	static
+hal_uart.c:296:14:hal_uart_rx_gdma_init	24	static
+hal_uart.c:328:14:hal_uart_rx_gdma_deinit	8	static
+hal_uart.c:347:14:hal_uart_dma_recv	16	static
+hal_uart.c:407:14:hal_uart_dma_send	16	static

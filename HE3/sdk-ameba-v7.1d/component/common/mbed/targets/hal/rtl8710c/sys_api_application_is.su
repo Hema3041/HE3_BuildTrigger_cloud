@@ -1,0 +1,15 @@
+sys_api.c:70:6:sys_clear_ota_signature	32	static
+sys_api.c:112:6:sys_recover_ota_signature	32	static
+sys_api.c:150:10:sys_update_ota_get_curr_fw_idx	0	static
+sys_api.c:159:10:sys_update_ota_get_fw1_sn	24	static
+sys_api.c:173:10:sys_update_ota_get_fw2_sn	24	static
+sys_api.c:184:9:sys_update_ota_set_boot_fw_idx	32	static
+sys_api.c:222:10:sys_update_ota_prepare_addr	32	static
+sys_api.c:237:10:hoags_get_current_img_addr	24	static
+sys_api.c:253:6:sys_disable_fast_boot	0	static
+sys_api.c:261:6:sys_reset	8	static
+sys_api.c:271:6:software_reset	8	static
+sys_api.c:285:6:sys_cpu_reset	8	static
+sys_api.c:294:6:sys_jtag_off	0	static
+sys_api.c:303:6:sys_log_uart_on	0	static
+sys_api.c:312:6:sys_log_uart_off	8	static

@@ -1,0 +1,11 @@
+sys_irq.c:80:6:sys_irq_enable	0	static
+sys_irq.c:91:6:sys_irq_disable	0	static
+sys_irq.c:105:6:sys_irq_set_vector	0	static
+sys_irq.c:119:10:sys_irq_get_vector	0	static
+sys_irq.c:133:6:sys_irq_set_priority	0	static
+sys_irq.c:158:6:sys_irq_set_pending	0	static
+sys_irq.c:171:10:sys_irq_get_pending	0	static
+sys_irq.c:182:6:sys_irq_clear_pending	0	static
+sys_irq.c:192:6:sys_interrupt_enable	0	static
+sys_irq.c:202:6:sys_interrupt_disable	0	static
+sys_irq.c:147:10:sys_irq_get_priority	0	static

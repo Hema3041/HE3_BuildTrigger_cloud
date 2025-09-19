@@ -1,0 +1,3 @@
+bt_example_entry.c:18:6:app_ftl_init	4	static
+bt_example_entry.c:30:6:bt_example_init_thread	16	static
+bt_example_entry.c:60:6:bt_example_init	0	static

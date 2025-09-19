@@ -1,0 +1,11 @@
+gpio_api.c:53:10:gpio_set	16	static
+gpio_api.c:71:6:gpio_init	24	static
+gpio_api.c:95:6:gpio_mode	24	static
+gpio_api.c:128:6:gpio_dir	8	static
+gpio_api.c:144:6:gpio_change_dir	8	static
+gpio_api.c:161:6:gpio_write	0	static
+gpio_api.c:178:6:gpio_direct_write	0	static
+gpio_api.c:193:5:gpio_read	0	static
+gpio_api.c:211:6:gpio_pull_ctrl	8	static
+gpio_api.c:233:6:gpio_deinit	0	static
+gpio_api.c:250:6:gpio_h5l3	0	static

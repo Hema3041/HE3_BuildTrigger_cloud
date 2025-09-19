@@ -1,0 +1,3 @@
+example_secure_boot.c:200:13:efuse_secure_boot_task	120	static
+example_secure_boot.c:31:6:hoags_efuse_secure	120	static
+example_secure_boot.c:359:6:example_secure_boot	16	static

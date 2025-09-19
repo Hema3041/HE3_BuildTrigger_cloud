@@ -1,0 +1,3 @@
+power_mode_api.c:54:6:DeepSleep	16	static
+power_mode_api.c:76:6:SleepCG	24	static
+power_mode_api.c:97:6:Standby	24	static

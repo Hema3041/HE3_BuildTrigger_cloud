@@ -1,0 +1,8 @@
+env.c:15:6:Erased_Env_part	16	static
+env.c:66:5:envAry_write_to_flash	32	static
+env.c:99:5:envAry_read_from_flash	40	static
+env.c:136:6:print_all_envs	16	static
+env.c:162:5:getEnvItem	16	static
+env.c:178:5:setEnvItem	32	static
+env.c:251:6:initEnv	48	static
+env.c:295:6:displayEnvInRAM	32	static

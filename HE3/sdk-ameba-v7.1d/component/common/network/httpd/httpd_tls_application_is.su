@@ -1,0 +1,11 @@
+httpd_tls.c:63:14:_calloc_func	16	static
+httpd_tls.c:46:12:_verify_func	1032	static
+httpd_tls.c:78:12:_random_func	8	static
+httpd_tls.c:87:5:httpd_tls_setup_init	32	static
+httpd_tls.c:164:6:httpd_tls_setup_free	8	static
+httpd_tls.c:175:7:httpd_tls_new_handshake	32	static
+httpd_tls.c:310:6:httpd_tls_free	8	static
+httpd_tls.c:324:6:httpd_tls_close	0	static
+httpd_tls.c:335:5:httpd_tls_read	0	static
+httpd_tls.c:346:5:httpd_tls_write	0	static
+httpd_tls.c:357:5:httpd_base64_encode	32	static

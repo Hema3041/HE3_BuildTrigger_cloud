@@ -1,0 +1,4 @@
+example_coap.c:25:9:coap_tx_cb	8	static
+example_coap.c:36:8:coap_rx_cb	8	static
+example_coap.c:46:13:example_coap_thread	56	static
+example_coap.c:140:6:example_coap	16	static

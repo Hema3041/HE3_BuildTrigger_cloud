@@ -1,0 +1,15 @@
+simple_ble_client.c:625:21:simp_ble_client_notif_ind_result_cb	40	static
+simple_ble_client.c:588:13:simp_ble_client_write_result_cb	56	static
+simple_ble_client.c:504:13:simp_ble_client_read_result_cb	64	static
+simple_ble_client.c:432:13:simp_ble_client_discover_result_cb	16	static
+simple_ble_client.c:355:13:simp_ble_client_discover_state_cb	48	static
+simple_ble_client.c:661:13:simp_ble_client_disconnect_cb	8	static
+simple_ble_client.c:46:5:simp_ble_client_start_discovery	16	static
+simple_ble_client.c:72:5:simp_ble_client_read_by_handle	8	static
+simple_ble_client.c:129:5:simp_ble_client_read_by_uuid	24	static
+simple_ble_client.c:176:5:simp_ble_client_set_v3_notify	32	static
+simple_ble_client.c:207:5:simp_ble_client_set_v4_ind	32	static
+simple_ble_client.c:240:5:simp_ble_client_write_v2_char	24	static
+simple_ble_client.c:271:5:simp_ble_client_get_hdl_cache	16	static
+simple_ble_client.c:301:5:simp_ble_client_set_hdl_cache	24	static
+simple_ble_client.c:703:13:simp_ble_add_client	24	static

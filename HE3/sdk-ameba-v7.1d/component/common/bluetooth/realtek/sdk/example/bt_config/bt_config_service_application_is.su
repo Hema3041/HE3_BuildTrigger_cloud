@@ -1,0 +1,4 @@
+bt_config_service.c:126:14:bt_config_service_attr_read_cb	24	static
+bt_config_service.c:169:14:bt_config_service_attr_write_cb	56	static
+bt_config_service.c:90:5:bt_config_service_set_parameter	16	static
+bt_config_service.c:225:13:bt_config_service_add_service	24	static

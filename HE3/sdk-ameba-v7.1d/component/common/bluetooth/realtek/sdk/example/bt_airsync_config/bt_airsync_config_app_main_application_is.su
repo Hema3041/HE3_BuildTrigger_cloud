@@ -1,0 +1,7 @@
+bt_airsync_config_app_main.c:108:6:bt_airsync_config_stack_config_init	0	static
+bt_airsync_config_app_main.c:117:6:bt_airsync_config_app_le_gap_init	96	static
+bt_airsync_config_app_main.c:185:6:bt_airsync_config_app_le_profile_init	8	static
+bt_airsync_config_app_main.c:193:6:bt_airsync_config_task_init	8	static
+bt_airsync_config_app_main.c:201:6:bt_airsync_config_task_deinit	8	static
+bt_airsync_config_app_main.c:209:5:bt_airsync_config_app_init	16	static
+bt_airsync_config_app_main.c:269:6:bt_airsync_config_app_deinit	16	static

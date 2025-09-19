@@ -1,0 +1,5 @@
+ssl_ticket.c:50:6:mbedtls_ssl_ticket_init	0	static
+ssl_ticket.c:122:5:mbedtls_ssl_ticket_setup	56	static
+ssl_ticket.c:291:5:mbedtls_ssl_ticket_write	80	static
+ssl_ticket.c:395:5:mbedtls_ssl_ticket_parse	72	static
+ssl_ticket.c:489:6:mbedtls_ssl_ticket_free	8	static

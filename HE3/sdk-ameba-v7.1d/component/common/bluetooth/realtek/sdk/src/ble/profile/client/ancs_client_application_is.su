@@ -1,0 +1,12 @@
+ancs_client.c:464:21:ancs_client_notify_ind_cb	32	static
+ancs_client.c:404:13:ancs_client_write_result_cb	56	static
+ancs_client.c:504:13:ancs_client_disc_cb	32	static
+ancs_client.c:349:13:ancs_client_discover_result_cb	16	static
+ancs_client.c:289:13:ancs_client_discover_state_cb	40	static
+ancs_client.c:55:5:ancs_start_discovery	24	static
+ancs_client.c:104:5:ancs_set_notification_source_notify	40	static
+ancs_client.c:133:5:ancs_set_data_source_notify	40	static
+ancs_client.c:164:5:ancs_get_notification_attr	64	static
+ancs_client.c:207:5:ancs_get_app_attr	64	static
+ancs_client.c:254:5:ancs_perform_notification_action	48	static
+ancs_client.c:546:13:ancs_add_client	24	static

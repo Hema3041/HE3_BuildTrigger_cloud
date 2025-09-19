@@ -1,0 +1,15 @@
+ble_central_at_cmd.c:61:16:hex_str_to_bd_addr	12	static
+ble_central_at_cmd.c:110:5:ble_central_at_cmd_connect	56	static
+ble_central_at_cmd.c:163:5:ble_central_at_cmd_modify_whitelist	48	static
+ble_central_at_cmd.c:205:5:ble_central_at_cmd_disconnect	8	static
+ble_central_at_cmd.c:214:5:ble_central_at_cmd_get_conn_info	48	static
+ble_central_at_cmd.c:245:5:ble_central_at_cmd_update_conn_request	56	static
+ble_central_at_cmd.c:266:5:ble_central_at_cmd_bond_information	48	static
+ble_central_at_cmd.c:299:5:ble_central_at_cmd_get	48	static
+ble_central_at_cmd.c:387:5:ble_central_at_cmd_scan	24	static
+ble_central_at_cmd.c:519:5:ble_central_at_cmd_auth	32	static
+ble_central_at_cmd.c:608:5:ble_central_at_cmd_send_userconf	16	static
+ble_central_at_cmd.c:628:5:ble_central_at_cmd_read	56	static
+ble_central_at_cmd.c:676:5:ble_central_at_cmd_write	568	static
+ble_central_at_cmd.c:706:5:ble_central_at_cmd_set_scan_param	24	static
+ble_central_at_cmd.c:777:5:ble_central_app_handle_at_cmd	96	static

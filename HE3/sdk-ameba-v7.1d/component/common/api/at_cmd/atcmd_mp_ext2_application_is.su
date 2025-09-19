@@ -1,0 +1,4 @@
+atcmd_mp_ext2.c:49:12:mp_ext2_uart_bridge	32	static
+atcmd_mp_ext2.c:114:12:mp_ext2_gnt_bt	16	static
+atcmd_mp_ext2.c:93:12:mp_ext2_bt_power	8	static
+atcmd_mp_ext2.c:135:6:fATM2	64	static

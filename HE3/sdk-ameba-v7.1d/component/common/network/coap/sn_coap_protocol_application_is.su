@@ -1,0 +1,12 @@
+sn_coap_protocol.c:893:13:sn_coap_protocol_linked_list_send_msg_remove	24	static
+sn_coap_protocol.c:83:8:sn_coap_protocol_destroy	24	static
+sn_coap_protocol.c:146:16:sn_coap_protocol_init	24	static
+sn_coap_protocol.c:212:8:sn_coap_protocol_set_block_size	0	static
+sn_coap_protocol.c:239:8:sn_coap_protocol_set_duplicate_buffer_size	0	static
+sn_coap_protocol.c:255:8:sn_coap_protocol_set_retransmission_parameters	0	static
+sn_coap_protocol.c:277:8:sn_coap_protocol_set_retransmission_buffer	0	static
+sn_coap_protocol.c:296:6:sn_coap_protocol_clear_retransmission_buffer	24	static
+sn_coap_protocol.c:310:8:sn_coap_protocol_delete_retransmission	24	static
+sn_coap_protocol.c:371:9:sn_coap_protocol_build	48	static
+sn_coap_protocol.c:514:16:sn_coap_protocol_parse	40	static
+sn_coap_protocol.c:698:8:sn_coap_protocol_exec	48	static

@@ -1,0 +1,6 @@
+trace_uart.c:28:13:uart_recv_done	0	static
+trace_uart.c:33:17:traceuart_dma_tx_complete	8	static
+trace_uart.c:42:5:trace_uart_init	16	static
+trace_uart.c:74:5:trace_uart_deinit	16	static
+trace_uart.c:92:5:trace_uart_tx	16	static
+trace_uart.c:120:6:bt_trace_set_switch	0	static

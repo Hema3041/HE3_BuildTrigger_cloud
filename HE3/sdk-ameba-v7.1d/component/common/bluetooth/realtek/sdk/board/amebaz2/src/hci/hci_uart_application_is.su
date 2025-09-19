@@ -1,0 +1,15 @@
+hci_uart.c:69:13:uart_send_done	0	static
+hci_uart.c:138:13:hciuart_irq	40	static
+hci_uart.c:42:6:set_hci_uart_out	0	static
+hci_uart.c:55:5:hci_uart_tx_bridge	8	static
+hci_uart.c:61:5:hci_uart_rx_bridge	8	static
+hci_uart.c:78:6:hci_uart_rx_disable	8	static
+hci_uart.c:88:6:hci_uart_rx_enable	8	static
+hci_uart.c:95:9:hci_rx_empty	0	static
+hci_uart.c:102:10:hci_rx_data_len	0	static
+hci_uart.c:106:10:hci_rx_space_len	0	static
+hci_uart.c:198:6:hci_uart_set_baudrate	8	static
+hci_uart.c:205:5:hci_uart_tx	8	static
+hci_uart.c:236:5:hci_uart_init	24	static
+hci_uart.c:262:5:hci_uart_deinit	8	static
+hci_uart.c:279:10:hci_uart_recv	24	static

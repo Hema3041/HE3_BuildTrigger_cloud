@@ -1,0 +1,6 @@
+hoagsFATFS.c:7:6:hoagsInitFATFS	8	static
+hoagsFATFS.c:22:9:hoagsFATFSDelFile	16	static
+hoagsFATFS.c:35:7:hoagsReadFATFS	128	static
+hoagsFATFS.c:119:5:hoagsWriteFATFS	4184	static
+hoagsFATFS.c:180:7:print_file_info	392	static
+hoagsFATFS.c:207:9:list_files	808	static
