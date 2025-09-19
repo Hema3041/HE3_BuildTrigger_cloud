@@ -13,11 +13,11 @@ source funcs.sh
 #HVLS0010002WAVPX => Havells WAVE Ac Production
 #LVPR0010001PURPX => Livpure Lotier
  
-echo "Please enter some note:"
-read NOTE
+#echo "Please enter some note:"
+NOTE="This is Jenkins build"
  
-echo "Please enter model-number:"
-read MODEL
+#echo "Please enter model-number:"
+MODEL="LVPR0010001PURPX"
  
  
 while :
