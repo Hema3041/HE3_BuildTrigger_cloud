@@ -5,7 +5,7 @@ import argparse
 # ====== Configuration ======
 local_file = "final_he3_reneses.bin"  # Path to your .bin file
 bucket_name = "hoags-mp-release"
-s3_path = "Livpure/Automation_build/HE3_final_image.bin"  # Path in S3
+s3_path = "Livpure/Automation_build/final_he3_reneses.bin"  # Path in S3
 region_name = "ap-south-1"  # Replace with your bucket's region
 
 # ====== Upload function ======
